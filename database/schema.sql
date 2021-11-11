@@ -35,9 +35,3 @@ CREATE TABLE event_log(
     CONSTRAINT PK_event_log PRIMARY KEY (eventlog_id) 
 );
 
-
-
-//dispatch_id,serial_number,med_name,med_code,med_weight,from_location,to_location,loader_name,loader_contact,action_status VALUES ('','','','','','','','','','')
-
-
-//serial_number,previous_capacity,battery_capacity
